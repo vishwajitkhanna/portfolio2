@@ -1,0 +1,66 @@
+.navbar-brand {
+    padding:0 30px;
+    height: 35px;
+    line-height: 35px;
+  }
+  body{
+    background: url(Screenshot_2021-removebg-preview.png);
+      background-size: cover;
+  }
+  html{
+    height: 100%;
+  }
+  #content{ 
+    text-align: center;
+    padding-top:11%
+  } 
+  
+  h1{
+    font-weight: 500;
+    font-size: 4em;
+  }
+  .navbar-br{
+    padding:0 30px;
+    height: 35px;
+    line-height: 35px;
+  }
+  .topleft {
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    font-size: 18px;
+  }
+  .topright {
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    font-size: 18px;
+  }
+  hr{
+    margin: 0 280px;
+	border-top: 2px solid #030000;
+	border-bottom: 2px solid #7d7dff;
+  }
+  .xyz{
+    background: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
+    position: absolute;
+    bottom: 0px;
+    width: 80%;
+    padding: 10px;
+    border-top-right-radius: 70px;
+    font-size: 20px;
+  }
+  .abc{
+    background: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
+    position: absolute;
+    top: 0.1px;
+    left: 30%;
+    width: 40%;
+    padding: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 20px;
+  }
+ 

@@ -1,0 +1,79 @@
+.navbar-brand {
+    padding:0 30px;
+    height: 35px;
+    line-height: 35px;
+  }
+  body{
+    background: url(vecto.png);
+      background-size: cover;
+  }
+  html{
+    height: 100%;
+}
+#content{ 
+  text-align: center;
+  padding-top:11%
+}  
+.navbar-br{
+    padding:0 30px;
+    height: 35px;
+    line-height: 35px;
+  }
+  .topleft {
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    font-size: 18px;
+  }
+  .topright {
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    font-size: 18px;
+  }
+  .xyz{
+    background: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 80%;
+    padding: 10px;
+    border-top-right-radius: 70px;
+    font-size: 20px;
+  }
+  .abc{
+    background: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
+    position: absolute;
+    top: 0.1px;
+    left: 30%;
+    width: 40%;
+    padding: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 20px;
+  }
+  .pic{
+    position: absolute;
+    left: 40px;
+    top: 120px;
+  }
+  .mic{
+    text-align: center;
+    position: absolute;
+    right: 40px;
+    top: 120px;
+  }
+  .ric{
+    position: relative;
+    top: 20px;
+    left: 15px;
+  }
+  img{
+    border-radius: 5%;
+    position: relative;
+    top: 220px;
+    width: 55%;
+    left: 37%;
+  }
